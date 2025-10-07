@@ -1,0 +1,18 @@
+<!DOCTYPE books SYSTEM "books.dtd">
+<books>
+	<book id="a1">
+		<name>java</name>
+		<author>james</author>
+		<price>300</price>
+	</book>
+	<book id="a2">
+		<name>uml</name>
+		<author>booch</author>
+		<price>350</price>
+	</book>
+	<book id="a3">
+		<name>xml</name>
+		<author>John</author>
+		<price>250</price>
+	</book>
+</books>
