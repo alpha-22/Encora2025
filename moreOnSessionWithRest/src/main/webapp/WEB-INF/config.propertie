@@ -1,0 +1,19 @@
+login=login
+
+login.success = welcome.jsp
+login.already = already.jsp
+login.failure = register.jsp
+
+
+logout=login.jsp
+logout.success = login.jsp
+
+shopping=shopping
+shop1=shop2.jsp
+shop2=shop3.jsp
+shop3=invoice.jsp
+
+
+addItems = addItems.jsp
+
+bill.success=bill.jsp
